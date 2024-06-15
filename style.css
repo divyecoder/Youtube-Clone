@@ -1,0 +1,57 @@
+*{
+    font-family: "Roboto", Arial;
+    color: white;
+    background-color: black;
+}
+
+.thumbnail{
+    width: 350px;
+}
+
+.search{
+    display: block;
+}
+
+.video-title{
+    width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.video-author,.video-stats{
+    font-size: 14px;
+    color: rgb(170, 170, 170) 
+}
+
+.video-preview{
+    width: 350px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+}
+
+.video-below{
+    width: 350px;
+
+    margin-top: 10px;
+}
+
+.pfp_img{
+    width: 20%;
+    vertical-align: top;
+    display: inline-block;
+    margin-right: -4px;
+}
+
+.info{
+    width: 80%;
+    display: inline-block;
+}
+
+.pfp{
+    width: 60%;
+    border-radius: 50px;
+
+}
